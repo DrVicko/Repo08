@@ -5,4 +5,4 @@ function functionPrintInfo(name, age) {
 console.log(functionPrintInfo("John", 23)); 
 // Write code above this line
 
-module.exports = reusableFunction; 
+module.exports = functionPrintInfo; 
